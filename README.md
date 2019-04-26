@@ -1,4 +1,4 @@
-## Aad `package.json` file and initialize it
+## Add `package.json` file and initialize it
 
 `yarn init -y`
 
